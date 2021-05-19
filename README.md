@@ -1,5 +1,5 @@
 # **FilmesFlix**
-Projeto criado para o módulo de MVVM e Clean Architecture  [bootcamp everis Kotlin Developer](https://digitalinnovation.one/bootcamps/everis-kotlin-developer) na [Digital Innovation One](https://digitalinnovation.one/)
+Projeto criado para o módulo de MVVM e Clean Architecture do [bootcamp everis Kotlin Developer](https://digitalinnovation.one/bootcamps/everis-kotlin-developer) na [Digital Innovation One](https://digitalinnovation.one/)
 
 Este projeto consiste em exibir uma lista de filmes, oriundas de uma API. 
 
